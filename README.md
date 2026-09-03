@@ -1,3 +1,6 @@
+<img src="https://komarev.com/ghpvc/?username=esp32king6&label=Profile%20views&color=0e75b6&style=flat" alt="visitor counter" />
+
+
 # 🌐 Wi-Fi Repeater Projects for ESP32 & ESP8266
 
 This repository contains simple Wi-Fi repeater projects using **ESP32** and **ESP8266**. Both boards can connect to an existing Wi-Fi network and create their own AP to share the connection. 🚀
